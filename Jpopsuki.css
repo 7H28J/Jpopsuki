@@ -321,7 +321,7 @@ input.hidden {
 
 
 .thin {
-	width: 850px;
+	width: 1000px;
 	margin: 0px auto;
 }
 
@@ -387,7 +387,7 @@ p.min_padding {
 
 .sidebar {
 	float: right;
-	width: 250px;
+	width: 280px;
 	height: 100%;
 }
 
@@ -409,7 +409,7 @@ p.min_padding {
 
 .main_column {
 	margin: 0px 255px 10px 0px;
-	width: 580px;
+	width: 700px;
 }
 
 .main_column .box, .main_column table {
