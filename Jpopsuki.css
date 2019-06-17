@@ -51,8 +51,10 @@ h1,h2,h3,h4 {
 }
 
 h2 {
-	text-align: center;
-	font-size: 12pt;
+    position: absolute;
+    font-size: 8pt;
+    margin-left: 665px;
+    font-weight: normal;
 }
 
 h4 {
