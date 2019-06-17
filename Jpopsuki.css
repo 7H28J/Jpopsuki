@@ -406,6 +406,7 @@ p.min_padding {
 	float: right;
 	width: 280px;
 	height: 100%;
+	margin-right: -20px;
 }
 
 .sidebar .box {
