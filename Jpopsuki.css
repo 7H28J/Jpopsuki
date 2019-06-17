@@ -2,7 +2,9 @@
 	width:100%;
 }
 
-
+.box div[style] {
+    padding: 0 0 0 0!important;
+}
 
 
 /* Global */
