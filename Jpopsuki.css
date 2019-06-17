@@ -160,7 +160,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #menu {
         position: absolute;
-        top: 25px;
+        top: 31px;
         width: 100%;
         padding: 0.6em 0;
 		color: #444;
@@ -193,7 +193,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #userinfo {
 	position: absolute;
-	top: 57px;
+	top: 63px;
 	background: var(--MainBackgroundColor);
 	color: #444;
 	padding: 4px 0px;
@@ -239,7 +239,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	width: 100%;
 	text-align: center;
 	background-color: var(--MainBackgroundColor);
-	padding: 4px 0px;
+	padding: 10px 0px;
 }
 
 #searchbars input {
@@ -265,7 +265,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #alerts {
-	margin-top: -68px;
+	margin-top: -62px;
 	background: var(--MainBackgroundColor);
 	padding: 10px 0px;
 }
