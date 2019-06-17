@@ -55,12 +55,10 @@ h1,h2,h3,h4 {
 }
 
 h2 {
-    position: relative;
+    position: absolute;
     font-size: 8pt;
+    margin-left: 665px;
     font-weight: normal;
-    top: 24px;
-    right: 10px;
-    float: right;
 }
 
 h4 {
