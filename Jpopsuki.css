@@ -157,7 +157,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
         padding: 0.6em 0;
 		color: #444;
         text-align: center;
-        background-color: MainBackgroundColor;
+        background-color: var(--MainBackgroundColor);
         font-size: 10pt;
 		font-weight: 900;
 }
@@ -186,7 +186,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #userinfo {
 	position: absolute;
 	top: 57px;
-	background: MainBackgroundColor;
+	background: var(--MainBackgroundColor);
 	color: #444;
 	padding: 4px 0px;
 	width: 100%;
@@ -230,7 +230,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	top: 0px;
 	width: 100%;
 	text-align: center;
-	background-color: MainBackgroundColor;
+	background-color: var(--MainBackgroundColor);
 	padding: 4px 0px;
 }
 
@@ -258,7 +258,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #alerts {
 	margin-top: -68px;
-	background: MainBackgroundColor;
+	background: var(--MainBackgroundColor);
 	padding: 10px 0px;
 }
 
@@ -406,7 +406,7 @@ p.min_padding {
 .head {
 	padding: 4px;
 	border-bottom: 1px solid #666;
-	background: MainBackgroundColor;
+	background: var(--MainBackgroundColor);
 	color: #333;
 }
 
@@ -469,13 +469,13 @@ td {
 }
 
 .colhead {
-	background: MainBackgroundColor;
+	background: var(--MainBackgroundColor);
 	font-weight: bold;
 	color: black;
 }
 
 .forum_group_header {
-        background: MainBackgroundColor;
+        background: var(--MainBackgroundColor);
         font-weight: bold;
         color: black;
 }
@@ -501,7 +501,7 @@ td.colhead, .colhead td {
 }
 
 .colhead_dark {
-	background: MainBackgroundColor;
+	background: var(--MainBackgroundColor);
 	color: #333;
 }
 
