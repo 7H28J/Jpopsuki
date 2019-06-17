@@ -159,6 +159,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #menu {
+		z-index: 1;
         position: absolute;
         top: 31px;
         width: 100%;
@@ -187,8 +188,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #menu ul li a:hover {
-        background-color: #98D9FF;
-        text-decoration: none;
+        text-decoration: underline;
 }
 
 #userinfo {
@@ -234,6 +234,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #searchbars {
+	z-index: 0;
 	position: absolute;
 	top: 0px;
 	width: 100%;
