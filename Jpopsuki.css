@@ -1,3 +1,9 @@
+:root {
+	--MainBackgroundColor: #D3EEFD;
+}
+
+
+
 .sidebar img {
 	width:100%;
 }
@@ -151,7 +157,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
         padding: 0.6em 0;
 		color: #444;
         text-align: center;
-        background-color: #D3EEFD;
+        background-color: MainBackgroundColor;
         font-size: 10pt;
 		font-weight: 900;
 }
@@ -180,7 +186,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #userinfo {
 	position: absolute;
 	top: 57px;
-	background: #D3EEFD;
+	background: MainBackgroundColor;
 	color: #444;
 	padding: 4px 0px;
 	width: 100%;
@@ -224,7 +230,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	top: 0px;
 	width: 100%;
 	text-align: center;
-	background-color: #D3EEFD;
+	background-color: MainBackgroundColor;
 	padding: 4px 0px;
 }
 
@@ -252,7 +258,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #alerts {
 	margin-top: -68px;
-	background: #D3EEFD;
+	background: MainBackgroundColor;
 	padding: 10px 0px;
 }
 
@@ -400,7 +406,7 @@ p.min_padding {
 .head {
 	padding: 4px;
 	border-bottom: 1px solid #666;
-	background: #D3EEFD;
+	background: MainBackgroundColor;
 	color: #333;
 }
 
@@ -463,13 +469,13 @@ td {
 }
 
 .colhead {
-	background: #D3EEFD;
+	background: MainBackgroundColor;
 	font-weight: bold;
 	color: black;
 }
 
 .forum_group_header {
-        background: #D3EEFD;
+        background: MainBackgroundColor;
         font-weight: bold;
         color: black;
 }
@@ -495,7 +501,7 @@ td.colhead, .colhead td {
 }
 
 .colhead_dark {
-	background: #D3EEFD;
+	background: MainBackgroundColor;
 	color: #333;
 }
 
